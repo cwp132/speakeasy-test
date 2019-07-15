@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "main": "server.js",
-  "proxy": "http://localhost:3002",
   "engines": {
     "node": "11.1.0"
   },
